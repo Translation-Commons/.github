@@ -8,7 +8,23 @@ We help communities digitize their native languages through:
 - Custom keyboards and language tools  
 - Community-driven open-source projects  
 
+## 🚀 Projects
+
+Here are some of the community-driven projects:
+
+- **LDI Guidelines and Resources**
+- **LDI Keyboards** 
+- **Linguistic Tools** 
+- **Sunuwar Pilot** 
+- **COVID Poster**
+- **Open Source Medical Supplies**
+- **People-Centered Internet** 
+- **Child Safety Poster** 
+- **Interpreter Commons**
+
+---
+
 📚 Explore our [website](https://www.translationcommons.org) to learn more.
 
 👥 We welcome volunteers, linguists, developers, and communities to join us!  
-To get involved, visit: [translationcommons.org/volunteer](https://translationcommons.org/volunteer/)
+To get involved as a volunteer, visit: [translationcommons.org/volunteer](https://translationcommons.org/volunteer/)
