@@ -21,7 +21,7 @@ Here are some of the community-driven projects:
 - **People-Centered Internet** 
 - **Child Safety Poster** 
 - **Interpreter Commons**
-
+- **LangNav**
 ---
 
 📚 Explore our [website](https://www.translationcommons.org) to learn more.
