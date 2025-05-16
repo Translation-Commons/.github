@@ -27,4 +27,4 @@ Here are some of the community-driven projects:
 📚 Explore our [website](https://www.translationcommons.org) to learn more.
 
 👥 We welcome volunteers, linguists, developers, and communities to join us!  
-To get involved as a volunteer, visit: [translationcommons.org/volunteer](https://translationcommons.org/volunteer/)
+To get involved as a volunteer, please visit: [translationcommons.org/volunteer](https://translationcommons.org/volunteer/)
